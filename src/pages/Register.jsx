@@ -111,7 +111,7 @@ function Register() {
         autoPlay
         muted
         className=" bg-cover h-screen absolute -z-10 opacity-70 object-cover w-full "
-        src="/bg-login.mp4"
+        src="/bg-video.mp4"
       ></video>
       <div className="grid place-items-center min-h-screen">
         <Form
